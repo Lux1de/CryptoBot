@@ -2,6 +2,9 @@
 
 Расширение для браузеров на базе Chromium, которое открывает мини приложение Crypto Bot.
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lux1deDev)
+
+
 ## Установка
 
 1. Откройте браузер Chrome/Edge/Opera и перейдите в настройки расширений:
